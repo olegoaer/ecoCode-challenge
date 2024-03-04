@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Welcome to our 3rd Hackathon</h1>
 
-| **Spotters** 🧪                                                                                            | **Builders** ⚒️                                                                                         | **Builders** ⚒️ |
-|----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| Do you feel like a pioneer?<br>Help us to identify, discuss and assess best practices for green software. | Do you feel like a craftman?<br>Help us to implement rules detection into the SonarQube code scanner. | TODO |
-| [JOIN YOUR TEAM](spotters.md)                                                                                           | [JOIN YOUR TEAM](builders.md)                                                                                        | TODO |
+| **Spotters** 🧪                                                                                            | **Builders** ⚒️                                                                                         | **Checkers** 📏 |
+|----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| Do you feel like a pioneer?<br>Help us to identify, discuss and assess best practices for green software. | Do you feel like a craftman?<br>Help us to implement rules detection into the SonarQube code scanner. | Do you feel like a controller?<br>Help us the check the actual impact of the rules (whether implemented or not). |
+| [JOIN YOUR TEAM](spotters.md)                                                                                           | [JOIN YOUR TEAM](builders.md)                                                                                        | [JOIN YOUR TEAM](checkers.md)  |
